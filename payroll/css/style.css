@@ -1,0 +1,72 @@
+body
+{
+	margin: 30px 0px;
+	padding: 0px;
+	text-align: center;
+	font-family: Tahoma, Helvetica, sans-serif, "Times New Roman";
+}
+
+#main
+{
+	width: 1000px;
+	margin: 0px auto;
+	text-align: left;
+	padding: 0px;
+	position: relative;
+}
+
+
+#header
+{
+	width: 1000px;
+	float: left;
+	position: relative;
+}
+
+
+#body
+{
+	width: 1000px;
+	float: left;
+	position: relative;
+}
+
+
+#footer
+{
+	width: 1000px;
+	height:35px;
+	float: left;
+	position: relative;
+}
+
+
+#content
+{
+	width: 1000px;
+	float: left;
+	position: relative;
+}
+
+#msgbox
+{
+	display: none;
+}
+
+.myerror
+{
+	background:#FFDFDF;
+	border: 1px #FF0000 solid;
+	color:#FF0000;
+	font-size:14px;
+	text-align: center;
+}
+
+.myinfo
+{
+	background:#d6e3f5;
+	border: 1px #0010ac solid;
+	color:#0010ac;
+	font-size:14px;
+	text-align: center;
+}
